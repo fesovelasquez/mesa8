@@ -1,2 +1,7 @@
 hola esto es algo random
+<<<<<<< HEAD
 holaaa
+=======
+
+cambiarlo un poco
+>>>>>>> f717b6ccfc329b18f4e394e3e1c18c66c4ac0a05
